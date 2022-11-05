@@ -1,0 +1,21 @@
+.page {
+  padding: 1.19rem 1.25rem;
+  background-color: #ffffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.image {
+  flex-shrink: 0;
+  width: 2.19rem;
+  height: 2rem;
+}
+.text {
+  margin-left: 0.69rem;
+  align-self: center;
+  color: #171725;
+  font-size: 1.5rem;
+  font-family: '.AppleSystemUIFont';
+  line-height: 1.75rem;
+}
